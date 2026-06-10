@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "thaumictech:items/jackhammer_of_the_core"
+  }
+}

@@ -1,0 +1,11 @@
+[
+{
+  "modid": "aeble",
+  "name": "AEble",
+  "description": "say goodbye to the aether accessories.",
+  "version": "v1.3.1",
+  "mcversion": "1.12.2",
+  "authorList": ["JXSuiciDarker"],
+  "logoFile": "aeble.png"
+}
+]

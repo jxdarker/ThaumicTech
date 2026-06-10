@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "thaumictech:items/chainsaw_of_the_stream_animated"
+  }
+}

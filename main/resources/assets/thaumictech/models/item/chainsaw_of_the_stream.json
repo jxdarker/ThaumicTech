@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "thaumictech:items/chainsaw_of_the_stream"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "thaumictech:animated": 1
+      },
+      "model": "thaumictech:item/override/chainsaw_of_the_stream_animated"
+    }
+  ]
+}

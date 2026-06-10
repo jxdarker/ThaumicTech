@@ -1,0 +1,10 @@
+item.chainsaw_of_the_stream.name=奔流电锯
+item.drill_of_the_destoryer.name=解构者电钻
+item.jackhammer_of_the_core.name=炽心凿石锤
+item.thaumic_circuit.name=神秘电路板
+item.thaumic_circuit_board.name=神秘电路板
+item.thaumic_circuit_parts.name=神秘电路零件
+itemGroup.tabThaumicTech=Thaumic Tech
+
+research.ELEMENTALELECTRICTOOLS.stage.1=我的猜想是对的，那些工具的能力使我惊奇!或许我能把它类推至电力工具上。首先，我们需要一个魔法与科技的媒介。
+research.ELEMENTALELECTRICTOOLS.stage.2=我的猜想是对的，那些工具的能力使我惊奇!或许我能把它类推至电力工具上。

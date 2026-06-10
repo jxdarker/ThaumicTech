@@ -1,0 +1,10 @@
+item.chainsaw_of_the_stream.name=Chainsaw Of The Stream
+item.drill_of_the_destoryer.name=Drill Of The Destoryer
+item.jackhammer_of_the_core.name=Jackhammer Of The Core
+item.thaumic_circuit.name=Thaumic Circuit
+item.thaumic_circuit_board.name=Thaumic Circuit Board
+item.thaumic_circuit_parts.name=Thaumic Circuit Parts
+itemGroup.tabThaumicTech=Thaumic Tech
+
+research.ELEMENTALELECTRICTOOLS.stage.1=My calculations are correct.Those special abilites amaze me!Maybe I can extend this to electric tools.But first,we need a thing which can bridge between magic and tech.
+research.ELEMENTALELECTRICTOOLS.stage.2=My calculations are correct.Those special abilites amaze me!Maybe I can extend this to electric tools.

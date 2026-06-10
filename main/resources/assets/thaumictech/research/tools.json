@@ -1,0 +1,23 @@
+{
+    "entries" :[
+		{
+        "key": "ELEMENTALELECTRICTOOLS",    
+        "name": "research.ELEMENTALELECTRICTOOLS.title",
+        "icons": [ "thaumictech:drill_of_the_destoryer" , "thaumictech:chainsaw_of_the_stream" , "thaumictech:jackhammer_of_the_core" ],
+        "category": "INFUSION", 
+		"location": [ -4,5 ], 
+        "parents": [ "ELEMENTALTOOLS" ],           
+        "stages": [
+                {
+                    "text": "research.ELEMENTALELECTRICTOOLS.stage.1",
+                    "required_item":["thaumictech:thaumic_circuit"]
+                },
+                {
+                    "text": "research.ELEMENTALELECTRICTOOLS.stage.2",  
+                    "recipes": ["thaumictech:DrillOfTheDestoryer","thaumictech:ChainsawOfTheStream","thaumictech:JackhammerOfTheCore"]
+                }
+            ]
+        }
+	]
+}
+    
